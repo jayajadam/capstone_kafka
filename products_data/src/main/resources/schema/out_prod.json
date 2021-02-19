@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "javaType": "com.company.examples.types.out_prod",
+  "properties": {
+    "PogId": {"type": "string"},
+    "Supc": {"type": "string"},
+    "Price": {"type": "number"},
+    "Quantity": {"type": "integer"}
+  }
+}

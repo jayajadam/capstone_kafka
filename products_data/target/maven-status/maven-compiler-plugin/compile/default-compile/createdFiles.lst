@@ -1,0 +1,12 @@
+com\company\examples\types\AppConfigs.class
+com\company\examples\serde\AppSerdes$productsSerde.class
+com\company\examples\Consumer_todisplaykey_values.class
+com\company\examples\types\out_prod.class
+com\company\examples\types\products.class
+com\company\examples\prod_outs.class
+com\company\examples\Single_Record_producer.class
+com\company\examples\serde\JsonSerializer.class
+com\company\examples\serde\AppSerdes.class
+com\company\examples\serde\JsonDeserializer.class
+com\company\examples\consumer_out.class
+com\company\examples\serde\AppSerdes$out_prodSerde.class
